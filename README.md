@@ -8,7 +8,7 @@ This project teaches students how to:
 
 - Install Docker Desktop
 - Set up a simple project folder
-- Create a `Dockerfile`
+- Create a Dockerfile
 - Build a Docker image
 - Run a Docker container
 - View a static website in the browser
